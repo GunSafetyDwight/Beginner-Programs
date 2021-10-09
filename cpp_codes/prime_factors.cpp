@@ -1,4 +1,8 @@
 // C++ program to print all prime factors
+
+/*
+SUBMITTED BY: cyber-king20
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
